@@ -34,7 +34,7 @@ processing 接受到串口的数据。解析出来角度和距离。 将这个�
 流程就是这样。具体的实现。可以看看程序里面。
 
 processing的效果大概是这样的。
-http://v.youku.com/v_show/id_XMTU4OTczMjMwMA==.html
+[Arduino+Processing雷达扫描效果](http://v.youku.com/v_show/id_XMTU4OTczMjMwMA==.html) 
 
 我录了一点视频。大家可以看看。
 
